@@ -1,4 +1,6 @@
-== README for Project2: LazyBug ==
+== README for FINAL PROJECT ==
+
+lets do this!
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
